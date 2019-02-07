@@ -6,7 +6,7 @@
 a = 'aaaaabbbbbcc' #a5b5c2
 b = 'aabbbcccc' #a2b3c4
 c = 'abcc' #a1b1c2 ====> abcc(기존 문자열 반환)
-d = 'acccccbbbaaaaa' #a6c5b3
+d = 'acccccbbbaaaaa' #a1c5b3a5
 
 arr = [a,b,c,d]
 
